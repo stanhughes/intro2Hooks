@@ -2,7 +2,7 @@
  * @format
  */
 
- // Import
+// Import
 import React, { useState }  from 'react'
 import { AppRegistry, Text, View, TouchableOpacity } from 'react-native'
 
